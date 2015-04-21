@@ -16,3 +16,21 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
 
+reviewer 1
+Looking at your code, I did not see any initial errors.
+When I ran it however on my Genymotion emulator, your app 
+showed up a jumbled mess. I think these are either due to 
+formatting errors, or differences in mobile devices. I ran 
+mine via Genymotion on an HP PC, so maybe this has to do with 
+some of the problems I am seeing. The contrast of the colors 
+on the first page, makes viewing your text very difficult. 
+The contrast on the second page is well contrasted however, 
+so I recommend applying that to your home page. Looking 
+specifically at your code, the font sizes you chose to use were 
+rather large. I recommend using any font from 10-15 in order to 
+fit all information on the screen. I liked that you used percentages
+for text placements, this will aid in making your app more accessible
+on a variety of devices. I would also recommend adding an image or logo
+to make your code more aesthetically pleasing. Business cards should capture
+your attention, and make you want to contact that person. Overall, I think you
+are headed down the right track but need  to work on the aesthetics and formatting of the apps.  
